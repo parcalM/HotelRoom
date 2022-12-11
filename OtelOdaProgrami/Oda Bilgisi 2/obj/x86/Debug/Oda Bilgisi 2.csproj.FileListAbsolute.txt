@@ -1,0 +1,24 @@
+C:\Users\bt556\Desktop\Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda_Bilgisi_2.Form1.resources
+C:\Users\bt556\Desktop\Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda_Bilgisi_2.Properties.Resources.resources
+C:\Users\bt556\Desktop\Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.csproj.GenerateResource.Cache
+C:\Users\bt556\Desktop\Oda Bilgisi 2\Oda Bilgisi 2\bin\Debug\Oda Bilgisi 2.exe
+C:\Users\bt556\Desktop\Oda Bilgisi 2\Oda Bilgisi 2\bin\Debug\Oda Bilgisi 2.pdb
+C:\Users\bt556\Desktop\Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.exe
+C:\Users\bt556\Desktop\Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.pdb
+C:\Users\bt556\Desktop\Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\11-Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\11-Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.pdb
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\11-Oda Bilgisi 2\Oda Bilgisi 2\bin\Debug\Oda Bilgisi 2.exe
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\11-Oda Bilgisi 2\Oda Bilgisi 2\bin\Debug\Oda Bilgisi 2.pdb
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\11-Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.csprojResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\11-Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda_Bilgisi_2.Form1.resources
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\11-Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda_Bilgisi_2.Properties.Resources.resources
+C:\Users\kazimsimsek\Desktop\TL11-B Projeleri\11-Oda Bilgisi 2\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.csproj.GenerateResource.Cache
+D:\CsharpProjeleri\OtelOdaProgrami\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.exe
+D:\CsharpProjeleri\OtelOdaProgrami\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.pdb
+D:\CsharpProjeleri\OtelOdaProgrami\Oda Bilgisi 2\bin\Debug\Oda Bilgisi 2.exe
+D:\CsharpProjeleri\OtelOdaProgrami\Oda Bilgisi 2\bin\Debug\Oda Bilgisi 2.pdb
+D:\CsharpProjeleri\OtelOdaProgrami\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.csprojResolveAssemblyReference.cache
+D:\CsharpProjeleri\OtelOdaProgrami\Oda Bilgisi 2\obj\x86\Debug\Oda_Bilgisi_2.Form1.resources
+D:\CsharpProjeleri\OtelOdaProgrami\Oda Bilgisi 2\obj\x86\Debug\Oda_Bilgisi_2.Properties.Resources.resources
+D:\CsharpProjeleri\OtelOdaProgrami\Oda Bilgisi 2\obj\x86\Debug\Oda Bilgisi 2.csproj.GenerateResource.Cache
